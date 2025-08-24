@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=700&color=F764C3&width=435&lines=🫶+xuwon's+GITHUB+🫶)](https://git.io/typing-svg)
 
-<div  align="center">
+<div  align="cente">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=xuuwon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/xuuwon"
