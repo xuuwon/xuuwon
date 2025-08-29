@@ -36,9 +36,3 @@
 </div> 
 </div>
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 GitHub Trophies </h2> 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xuuwon&theme=gruvbox&row=1&column=7&margin-w=10&margin-h=10" />
-</div> 
-</div>
